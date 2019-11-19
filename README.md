@@ -1,2 +1,2 @@
 # week2-102
-Workshop on branching
+Isaac McFadden, 11/19/19, Git Workshop week 2
